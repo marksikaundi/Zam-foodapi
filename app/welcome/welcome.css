@@ -1,0 +1,57 @@
+.login-screen {
+  display: flex;
+  margin: auto;
+  width: 100%;
+  font-weight: 700;
+  min-height: 100vh;
+  background-color: #e6fdfe;
+  justify-content: center;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+.logo-mms {
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #058b94;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+}
+
+.login-screen-right {
+  width: 40%;
+  display: flex;
+  font-family: Mukta;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+
+  padding-left: 3rem;
+  font-size: 32px;
+  font-family: Mukta;
+  color: #141414;
+  background-color: #fff;
+}
+.login-screen-right h4 {
+  font-size: 24px;
+  font-family: Mukta;
+  font-weight: 400;
+  color: #808080;
+}
+#logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  align-items: center;
+}
+#logo img {
+  margin-bottom: 1.5rem;
+}
+#logo-heading {
+  font-family: Mukta;
+  font-size: 32px;
+  font-weight: 700;
+  color: #fff;
+  white-space: nowrap;
+}
