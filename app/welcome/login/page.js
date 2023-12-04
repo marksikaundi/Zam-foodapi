@@ -97,7 +97,7 @@ const Login = () => {
             }}
             onClick={() => router.push("/forgetPassword")}
           >
-            Forget password ?
+            Forget password?
           </Button>
         </div>
         <Button

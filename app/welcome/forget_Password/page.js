@@ -33,10 +33,10 @@ const ForgetPassword = () => {
 
       <div className="login-screen-right">
         <div id="logo-heading" style={{ color: "black" }}>
-          Forgot Password ?
+          Forgot Password?
         </div>
         <h4 style={{ marginTop: "0px" }}>
-          Please enter your resgistered email to reset your password
+          Please enter your registered email to reset your password
         </h4>
         <TextField
           style={{
