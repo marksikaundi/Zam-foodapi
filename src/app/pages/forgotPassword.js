@@ -1,8 +1,8 @@
 "use client";
 import React, { useState } from "react";
 import Image from "next/image";
-import LogoComponent from "../logoScreenComponent";
-import "../../welcome/welcome.css";
+import LogoComponent from "@/src/app/components/logoScreenComponent";
+import "@/src/app/styles/welcome.css";
 
 import {
   Button,
@@ -16,8 +16,9 @@ import {
 } from "@mui/material";
 import VisibilityOffOutlinedIcon from "@mui/icons-material/VisibilityOffOutlined";
 import VisibilityOutlinedIcon from "@mui/icons-material/VisibilityOutlined";
+import { useRouter } from "next/navigation";
 
-const ForgetPassword = () => {
+const ForgotPassword = () => {
   const [showPassword, setShowPassword] = useState(false);
   const router = useRouter();
 
@@ -60,7 +61,6 @@ const ForgetPassword = () => {
             fontWeight: 600,
           }}
           variant="contained"
-          onClick={handleDoneClick}
         >
           Done
         </Button>
@@ -69,4 +69,4 @@ const ForgetPassword = () => {
   );
 };
 
-export default ForgetPassword;
+export default ForgotPassword;

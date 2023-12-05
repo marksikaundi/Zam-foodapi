@@ -1,9 +1,9 @@
 "use client";
 import React, { useState } from "react";
 import Image from "next/image";
-import LogoComponent from "../logoScreenComponent";
-import "../../welcome/welcome.css";
-import google_logo from "@/app/assets/google_logo.svg";
+import LogoComponent from "@/src/app/components/logoScreenComponent";
+import "@/src/app/styles/welcome.css";
+import google_logo from "@/src/app/assets/google_logo.svg";
 
 import {
   Button,
@@ -27,7 +27,7 @@ const Login = () => {
       <Image
         alt="google logo"
         src={google_logo}
-        style={{ width: "100%", height: "100%" }}
+        style={{ width: "100%", height: "120%" }}
       />
     </Icon>
   );
@@ -95,7 +95,6 @@ const Login = () => {
               textAlign: "center",
               alignItems: "right",
             }}
-            onClick={() => router.push("/forgetPassword")}
           >
             Forget password ?
           </Button>
@@ -113,6 +112,7 @@ const Login = () => {
         >
           Login
         </Button>
+
         <Button
           style={{
             width: "90%",
@@ -122,6 +122,7 @@ const Login = () => {
           }}
           variant="outlined"
           startIcon={svgIcon}
+          onClick={() => router.push("/forgotPassword")}
         >
           Sign in with google
         </Button>
