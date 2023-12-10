@@ -1,5 +1,19 @@
 {
   "dependencies": {
     "json": "^11.0.0"
-  }
+  },
+  "name": "burger-api",
+  "description": "- Links",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "mark sikaundi",
+  "license": "ISC"
 }
