@@ -1,0 +1,50 @@
+{
+  "burger":[
+    {
+      "id": 0,
+      "name": "Tribute Burger",
+      "restaurant": "Kuma's Corner",
+      "description": "This burger is a tribute to the almighty Motorhead. 10oz burger, bourbon poached pear, applewood smoked bacon, brie, arugula, and a bourbon gastrique.",
+      "website": "http://kumascorner.com/",
+      "ingredients": [
+        "10oz burger",
+        "bourbon poached pear",
+        "applewood smoked bacon",
+        "brie",
+        "arugula",
+        "bourbon gastrique"
+      ],
+      "address": [
+        {
+          "street": "2900 W Belmont Ave",
+          "city": "Chicago",
+          "state": "IL",
+          "zip": "60618"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "New Burger",
+      "restaurant": "Enegy's Corner",
+      "description": "This burger is a tribute to the almighty Motorhead. 10oz burger, bourbon poached pear, applewood smoked bacon, brie, arugula, and a bourbon gastrique.",
+      "website": "http://energiys.com/",
+      "ingredients": [
+        "10oz burger",
+        "bourbon poached pear",
+        "applewood smoked bacon",
+        "brie",
+        "arugula",
+        "bourbon gastrique"
+      ],
+      "address": [
+        {
+          "street": "2900 W Belmont Ave",
+          "city": "Florida",
+          "state": "TP",
+          "zip": "60618"
+        }
+      ]
+    }
+  ]
+}
