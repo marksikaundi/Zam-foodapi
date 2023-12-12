@@ -53,7 +53,7 @@ For Food in Zambia, and other most famous dishes in Africa.
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Author
-[![Twitter Follow](https://img.shields.io/twitter/follow/ChandaChisala?style=social)](https://twitter.com/Alisikaundi)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Alisikaundi?style=social)](https://twitter.com/Alisikaundi)
 
 
 
