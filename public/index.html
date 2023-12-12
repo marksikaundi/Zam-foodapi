@@ -1,96 +1,104 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>API Documentation</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food API Landing Page</title>
     <style>
-        /* Add your CSS styles here */
         body {
-            font-family: Arial, sans-serif;
-        }
-        
-        h1 {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
             color: #333;
         }
-        
-        .endpoint {
-            margin-bottom: 20px;
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
         }
-        
-        .endpoint h2 {
-            color: #666;
+
+        section {
+            padding: 2em;
+            text-align: center;
         }
-        
-        .endpoint p {
-            margin: 10px 0;
+
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 18px;
+            text-decoration: none;
+            background-color: #FF6347;
+            color: #fff;
+            border-radius: 5px;
+        }
+
+        .features {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            padding: 2em;
+        }
+
+        .feature {
+            width: 30%;
+            margin: 1em;
+            padding: 1em;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+            text-align: center;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
         }
     </style>
 </head>
 <body>
-    <h1>API Documentation</h1>
-    
-    <div class="endpoint">
-        <h2>GET /api/endpoint1</h2>
-        <p>This endpoint retrieves data from the server.</p>
-        <p>Parameters:</p>
-        <ul>
-            <li>param1: The first parameter</li>
-            <li>param2: The second parameter</li>
-        </ul>
-        <p>Response:</p>
-        <pre>
-            {
-                "data": "Some data"
-            }
-        </pre>
+
+<header>
+    <h1>Food API</h1>
+    <p>Your go-to solution for food-related data</p>
+</header>
+
+<section>
+    <h2>Unlock the Power of Food Data</h2>
+    <p>Explore a world of culinary information with our powerful Food API. From recipes
+        to nutritional data, we've got you covered.</p>
+    <a href="#features" class="cta-button">Get Started</a>
+</section>
+
+
+<section id="features">
+    <h2>Key Features</h2>
+    <div class="features">
+        <div class="feature">
+            <h3>Recipes</h3>
+            <p>Access a vast collection of mouth-watering recipes from various cuisines.</p>
+        </div>
+        <div class="feature">
+            <h3>Nutritional Data</h3>
+            <p>Get detailed nutritional information for ingredients and recipes.</p>
+        </div>
+        <div class="feature">
+            <h3>Search and Filter</h3>
+            <p>Effortlessly search and filter through our extensive food database.</p>
+        </div>
     </div>
-    
-    <div class="endpoint">
-        <h2>POST /api/endpoint2</h2>
-        <p>This endpoint sends data to the server.</p>
-        <p>Parameters:</p>
-        <ul>
-            <li>param1: The first parameter</li>
-            <li>param2: The second parameter</li>
-        </ul>
-        <p>Response:</p>
-        <pre>
-            {
-                "message": "Data saved successfully"
-            }
-        </pre>
-    </div>
-    
-    <!-- Add more endpoints here -->
-    <div class="endpoint">
-        <h2>PUT /api/endpoint3</h2>
-        <p>This endpoint updates data on the server.</p>
-        <p>Parameters:</p>
-        <ul>
-            <li>param1: The first parameter</li>
-            <li>param2: The second parameter</li>
-        </ul>
-        <p>Response:</p>
-        <pre>
-            {
-                "message": "Data updated successfully"
-            }
-        </pre>
-    </div>
-<div>
-    <h2>POST /api/endpoint4</h2>
-    <p>This endpoint sends data to the server.</p>
-    <p>Parameters:</p>
-    <ul>
-        <li>param1: The first parameter</li>
-        <li>param2: The second parameter</li>
-    </ul>
-    <p>Response:</p>
-    <pre>
-            {
-                "message": "Data saved successfully"
-            }
-        </pre>
-</div>
-    
+</section>
+
+<footer>
+    <p>&copy; 2023 Food API. All rights reserved.</p>
+</footer>
 </body>
 </html>
+
+
+
+
