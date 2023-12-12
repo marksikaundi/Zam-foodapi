@@ -1,13 +1,81 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zambian Food API</title>
+    <title>API Documentation</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+        }
+        
+        h1 {
+            color: #333;
+        }
+        
+        .endpoint {
+            margin-bottom: 20px;
+        }
+        
+        .endpoint h2 {
+            color: #666;
+        }
+        
+        .endpoint p {
+            margin: 10px 0;
+        }
+    </style>
 </head>
 <body>
-    <h1>Here some Zambian Food Collections</h1>
-    <li>Mango and Guavas</li>
+    <h1>API Documentation</h1>
+    
+    <div class="endpoint">
+        <h2>GET /api/endpoint1</h2>
+        <p>This endpoint retrieves data from the server.</p>
+        <p>Parameters:</p>
+        <ul>
+            <li>param1: The first parameter</li>
+            <li>param2: The second parameter</li>
+        </ul>
+        <p>Response:</p>
+        <pre>
+            {
+                "data": "Some data"
+            }
+        </pre>
+    </div>
+    
+    <div class="endpoint">
+        <h2>POST /api/endpoint2</h2>
+        <p>This endpoint sends data to the server.</p>
+        <p>Parameters:</p>
+        <ul>
+            <li>param1: The first parameter</li>
+            <li>param2: The second parameter</li>
+        </ul>
+        <p>Response:</p>
+        <pre>
+            {
+                "message": "Data saved successfully"
+            }
+        </pre>
+    </div>
+    
+    <!-- Add more endpoints here -->
+    <div class="endpoint">
+        <h2>PUT /api/endpoint3</h2>
+        <p>This endpoint updates data on the server.</p>
+        <p>Parameters:</p>
+        <ul>
+            <li>param1: The first parameter</li>
+            <li>param2: The second parameter</li>
+        </ul>
+        <p>Response:</p>
+        <pre>
+            {
+                "message": "Data updated successfully"
+            }
+        </pre>
+    </div>
     
 </body>
 </html>
