@@ -44,6 +44,26 @@ section {
     border-radius: 5px;
     text-align: center;
 }
+/* Routes endpoint styling */
+h1 {
+    color: #333;
+  }
+
+  .route {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+  }
+
+  .route h2 {
+    margin-top: 0;
+    color: #666;
+  }
+
+  .route p {
+    color: #999;
+  }
 
 footer {
     background-color: #333;
