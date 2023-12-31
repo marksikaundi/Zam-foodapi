@@ -100,5 +100,311 @@
       ]
     }
     
+  ],
+  "root":[
+    {
+      "id": "001",
+      "name": "Cassava",
+      "seasons": "Dry Season",
+      "description": " Cassava is widely used in the preparation of many African dishes. It is used in preparing fufu when boiled and pounded. It is also used in preparing tapioca, a popular dessert in many African countries. Cassava is also used in preparing garri, a popular food in Nigeria. Garri is prepared by fermenting cassava, drying it and then frying it with palm oil. Cassava is also used in preparing many other dishes such as cassava chips, cassava flour, cassava bread, cassava cake, cassava fufu, cassava pudding, etc.",
+      "website": "http://www.cassavabiz.org/",
+      "nutrients": [
+        "Vitamin C",
+        "Calcium",
+        "Iron",
+        "Magnesium",
+        "Phosphorus",
+        "Potassium",
+        "Sodium",
+        "Zinc",
+        "Copper",
+        "Manganese",
+        "Selenium",
+        "Vitamin A",
+        "Vitamin E",
+        "Vitamin K",
+        "Thiamin",
+        "Riboflavin",
+        "Niacin",
+        "Vitamin B6",
+        "Folate",
+        "Pantothenic Acid",
+        "Choline",
+        "Betaine"
+      ],
+      "countries": [
+        {
+          "name": "Nigeria",
+          "region": "Africa",
+          "subregion": "Western Africa",
+          "population": 173615000,
+          "languages": [
+            {
+              "name": "English",
+              "nativeName": "English"
+            }
+          ],
+          "latlng": [
+            10,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "name": "Sweet Potato",
+      "seasons": "All Season",
+      "description": "Sweet potatoes are a good source of vitamin C, which helps fight infections, heal wounds, and absorb iron. They also are a good source of vitamin D, which helps build healthy bones. Sweet potatoes are a great source of vitamin B6, which helps break down a substance called homocysteine, which we do not want to build up in our body. Homocysteine has been linked to heart attacks. Sweet potatoes are also a good source of potassium, which can help lower blood pressure. Sweet potatoes are a good source of magnesium, which is the relaxation and anti-stress mineral. Sweet potatoes are a source of iron, which helps red and white blood cell production, resistance to stress, proper immune functioning, and the metabolizing of protein, among other things. Sweet potatoes are a good source of beta-carotene, which is an antioxidant that helps prevent free radical damage to cells and DNA, known to play a role in many diseases.",
+      "website": "http://www.sweetpotatoknowledge.org/",
+      "nutrients": [
+        "Vitamin C",
+        "Calcium",
+        "Iron",
+        "Magnesium",
+        "Phosphorus",
+        "Potassium",
+        "Sodium",
+        "Zinc",
+        "Copper",
+        "Manganese",
+        "Selenium",
+        "Vitamin A",
+        "Vitamin E",
+        "Vitamin K",
+        "Thiamin",
+        "Riboflavin",
+        "Niacin",
+        "Vitamin B6",
+        "Folate",
+        "Pantothenic Acid",
+        "Choline",
+        "Betaine"
+      ],
+
+      "countries": [
+        {
+          "name": "Nigeria",
+          "region": " Africa",
+          "subregion": " Western Africa",
+          "population": 173615000,
+          "languages": [
+            {
+              "name": "English",
+              "nativeName": "English"
+            }
+          ],
+          "latlng": [
+            10,
+            8
+          ]
+        }
+      ]
+    }
+
+  ],
+  "seasonal":[
+    {
+      "id": "001",
+      "name": "Cassava",
+      "seasons": "Dry Season",
+      "description": " Cassava is widely used in the preparation of many African dishes. It is used in preparing fufu when boiled and pounded. It is also used in preparing tapioca, a popular dessert in many African countries. Cassava is also used in preparing garri, a popular food in Nigeria. Garri is prepared by fermenting cassava, drying it and then frying it with palm oil. Cassava is also used in preparing many other dishes such as cassava chips, cassava flour, cassava bread, cassava cake, cassava fufu, cassava pudding, etc.",
+      "website": "http://www.cassavabiz.org/",
+      "nutrients": [
+        "Vitamin C",
+        "Calcium",
+        "Iron",
+        "Magnesium",
+        "Phosphorus",
+        "Potassium",
+        "Sodium",
+        "Zinc",
+        "Copper",
+        "Manganese",
+        "Selenium",
+        "Vitamin A",
+        "Vitamin E",
+        "Vitamin K",
+        "Thiamin",
+        "Riboflavin",
+        "Niacin",
+        "Vitamin B6",
+        "Folate",
+        "Pantothenic Acid",
+        "Choline",
+        "Betaine"
+      ],
+      "countries": [
+        {
+          "name": "Nigeria",
+          "region": "Africa",
+          "subregion": "Western Africa",
+          "population": 173615000,
+          "languages": [
+            {
+              "name": "English",
+              "nativeName": "English"
+            }
+          ],
+          "latlng": [
+            10,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "name": "Sweet Potato",
+      "seasons": "All Season",
+      "description": "Sweet potatoes are a good source of vitamin C, which helps fight infections, heal wounds, and absorb iron. They also are a good source of vitamin D, which helps build healthy bones. Sweet potatoes are a great source of vitamin B6, which helps break down a substance called homocysteine, which we do not want to build up in our body. Homocysteine has been linked to heart attacks. Sweet potatoes are also a good source of potassium, which can help lower blood pressure. Sweet potatoes are a good source of magnesium, which is the relaxation and anti-stress mineral. Sweet potatoes are a source of iron, which helps red and white blood cell production, resistance to stress, proper immune functioning, and the metabolizing of protein, among other things. Sweet potatoes are a good source of beta-carotene, which is an antioxidant that helps prevent free radical damage to cells and DNA, known to play a role in many diseases.",
+      "website": "http://www.sweetpotatoknowledge.org/",
+      "nutrients": [
+        "Vitamin C",
+        "Calcium",
+        "Iron",
+        "Magnesium",
+        "Phosphorus",
+        "Potassium",
+        "Sodium",
+        "Zinc",
+        "Copper",
+        "Manganese",
+        "Selenium",
+        "Vitamin A",
+        "Vitamin E",
+        "Vitamin K",
+        "Thiamin",
+        "Riboflavin",
+        "Niacin",
+        "Vitamin B6",
+        "Folate",
+        "Pantothenic Acid",
+        "Choline",
+        "Betaine"
+      ],
+
+      "countries": [
+        {
+          "name": "Nigeria",
+          "region": " Africa",
+          "subregion": " Western Africa",
+          "population": 173615000,
+          "languages": [
+            {
+              "name": "English",
+              "nativeName": "English"
+            }
+          ],
+          "latlng": [
+            10,
+            8
+          ]
+        }
+      ]
+    }
+
+  ],
+  "foreign":[
+    {
+      "id": "001",
+      "name": "Cassava",
+      "seasons": "Dry Season",
+      "description": " Cassava is widely used in the preparation of many African dishes. It is used in preparing fufu when boiled and pounded. It is also used in preparing tapioca, a popular dessert in many African countries. Cassava is also used in preparing garri, a popular food in Nigeria. Garri is prepared by fermenting cassava, drying it and then frying it with palm oil. Cassava is also used in preparing many other dishes such as cassava chips, cassava flour, cassava bread, cassava cake, cassava fufu, cassava pudding, etc.",
+      "website": "http://www.cassavabiz.org/",
+      "nutrients": [
+        "Vitamin C",
+        "Calcium",
+        "Iron",
+        "Magnesium",
+        "Phosphorus",
+        "Potassium",
+        "Sodium",
+        "Zinc",
+        "Copper",
+        "Manganese",
+        "Selenium",
+        "Vitamin A",
+        "Vitamin E",
+        "Vitamin K",
+        "Thiamin",
+        "Riboflavin",
+        "Niacin",
+        "Vitamin B6",
+        "Folate",
+        "Pantothenic Acid",
+        "Choline",
+        "Betaine"
+      ],
+      "countries": [
+        {
+          "name": "Nigeria",
+          "region": "Africa",
+          "subregion": "Western Africa",
+          "population": 173615000,
+          "languages": [
+            {
+              "name": "English",
+              "nativeName": "English"
+            }
+          ],
+          "latlng": [
+            10,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "id": "002",
+      "name": "Sweet Potato",
+      "seasons": "All Season",
+      "description": "Sweet potatoes are a good source of vitamin C, which helps fight infections, heal wounds, and absorb iron. They also are a good source of vitamin D, which helps build healthy bones. Sweet potatoes are a great source of vitamin B6, which helps break down a substance called homocysteine, which we do not want to build up in our body. Homocysteine has been linked to heart attacks. Sweet potatoes are also a good source of potassium, which can help lower blood pressure. Sweet potatoes are a good source of magnesium, which is the relaxation and anti-stress mineral. Sweet potatoes are a source of iron, which helps red and white blood cell production, resistance to stress, proper immune functioning, and the metabolizing of protein, among other things. Sweet potatoes are a good source of beta-carotene, which is an antioxidant that helps prevent free radical damage to cells and DNA, known to play a role in many diseases.",
+      "website": "http://www.sweetpotatoknowledge.org/",
+      "nutrients": [
+        "Vitamin C",
+        "Calcium",
+        "Iron",
+        "Magnesium",
+        "Phosphorus",
+        "Potassium",
+        "Sodium",
+        "Zinc",
+        "Copper",
+        "Manganese",
+        "Selenium",
+        "Vitamin A",
+        "Vitamin E",
+        "Vitamin K",
+        "Thiamin",
+        "Riboflavin",
+        "Niacin",
+        "Vitamin B6",
+        "Folate",
+        "Pantothenic Acid",
+        "Choline",
+        "Betaine"
+      ],
+
+      "countries": [
+        {
+          "name": "Nigeria",
+          "region": " Africa",
+          "subregion": " Western Africa",
+          "population": 173615000,
+          "languages": [
+            {
+              "name": "English",
+              "nativeName": "English"
+            }
+          ],
+          "latlng": [
+            10,
+            8
+          ]
+        }
+      ]
+    }
+
   ]
 }

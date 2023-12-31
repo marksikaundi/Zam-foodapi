@@ -10,17 +10,23 @@ For Food in Zambia, and other most famous dishes in Africa.
 
 - `zam-foodapi.onrender.com` [Production]
 ### Endpoints
-- `GET /burger` [Get all burgers]
-- `GET /burger/1` [Get burger with id 1]
+Resources
+- `http://localhost:3000/local` [LOCAL FOODS]
+- `http://localhost:3000/root` [ROOT FOODS]
+- `http://localhost:3000/seasonal` [SEASONAL FOODS]
+- `http://localhost:3000/foreign` [FOREIGN FOODS]
 
-- `GET /pizza` [Get all pizza]
-- `GET /pizza/1` [Get pizza with id 1]
+- `GET /local` [Get all **local** foods]
+- `GET /local/1` [Get all **local** food with id 1]
 
-- `GET /chicken` [Get all chicken]
-- `GET /chicken/1` [Get chicken with id 1]
+- `GET /root` [Get all **root** foods]
+- `GET /root/1` [Get all **root** foods with id 1]
 
-- `GET /beef` [Get all beef]
-- `GET /beef/1` [Get beef with id 1]
+- `GET /seasonal` [Get all **seasonal** foods]
+- `GET /seasonal/1` [Get all **seasonal** foods with id 1]
+
+- `GET /foreign` [Get all **foreign** foods]
+- `GET /foreign/1` [Get all **foreign** foods with id 1]
 
 - `GET /pork` [Get all pork]
 - `GET /pork/1` [Get pork with id 1]
