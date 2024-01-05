@@ -21,7 +21,7 @@
       "name": "amasuku",
       "types": "Seasonal Fluits",
       "description": "Amasuku these are wild fruits most found nearly across the country during rain seasons",
-      "website": "http://www.amasuku.org/",
+      "website": "https://www.amasuku.org/",
       "regions": "Northern, Eastern, Central, and Copper-belt"
     },
     {
@@ -29,7 +29,7 @@
       "name": "Infungo",
       "types": "Seasonal Fluits",
       "description": "Infungo these are wild fruits most found nearly across the country during dry seasons",
-      "website": "http://www.infungo.org/",
+      "website": "https://www.infungo.org/",
       "regions": "Most part of Zambia"
     },
     {
@@ -37,8 +37,24 @@
       "name": "Ifisongole",
       "types": "Seasonal Fluits",
       "description": "Ifisongole these are wild fruits most found nearly across the country during dry seasons",
-      "website": "http://www.ifisongole.org/",
-      "regions": "Northern, Lwapula, Muchinga, Copperbelt and Eastern part of Zambia "
+      "website": "https://www.ifisongole.org/",
+      "regions": "Northern, Lwapula, Muchinga, Copperbelt and Eastern part of Zambia"
+    },
+    {
+      "id": "04",
+      "name": "Amampangwa",
+      "types": "Seasonal Fluits",
+      "description": "Amampangwa these are wild fruits most found in  Muchinga Province  during mid-Rain seasons. Amampangwa it's a Namwanga name given to them",
+      "website": "https://www.amampangwa.org/",
+      "regions": "Muchinga Province "
+    },
+    {
+      "id": "05",
+      "name": "Amambungo",
+      "types": "Seasonal Fluits",
+      "description": "Amambungo these are wild fruits most found in  Muchinga Province  during Dry seasons.",
+      "website": "https://www.amambungo.org/",
+      "regions": "Muchinga, Lwapula and Northen Part of Zambia "
     }
   ]
 }
