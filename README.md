@@ -1,4 +1,4 @@
-A simple hosted API for the [Open Source Vulnerability Database](https://zam-foodapi.onrender.com).
+A simple Zambian Food API for the [Open Source Vulnerability Database](https://zam-foodapi.onrender.com).
 For Food in Zambia, and other most famous dishes in Africa.
 
 ## Commands
